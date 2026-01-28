@@ -1,0 +1,5 @@
+
+
+module useemployeemodule {
+	requires employeemodule;
+}
