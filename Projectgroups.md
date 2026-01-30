@@ -1,6 +1,7 @@
 Batch 2 team details
 
-Team 1
+Team 1 (4) -
+----------------
 Kriti
 Pranav Motamarri
 Prasanjith
