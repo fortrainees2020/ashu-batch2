@@ -7,7 +7,6 @@ Pranav Motamarri
 Prasanjith
 Nidhi prashant patil
 
-
 Team 2(4)-
 ----------------
 Nitika M
