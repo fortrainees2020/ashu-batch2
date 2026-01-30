@@ -27,26 +27,26 @@ Lalitha prakash
 Madhushree S shetty
 Krishnendu M R
 
-Team (5)-
+Team (3)-
 -------------------
 Navithyan P
 Madhavan
 Murugappan
 
-Team (6)-
+Team (4)-
 -----------------
 Kartikey Gupta
 Riya rangwani
 Nikhil Goyal
 Naga keerti krith
 
-Team (7)-
+Team (3)-
 -----------------
 Nishita jain
 Nandani ssarvaiya
 Rimjhim Tiwari
 
-Team (8)-
+Team (4)-
 -----------------
 Prakhar Sharma
 Parthsarathi Bhattacharya
